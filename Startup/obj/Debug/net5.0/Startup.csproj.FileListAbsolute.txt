@@ -1,0 +1,16 @@
+D:\HomeworkGB\HW-05\HW-05\Startup\bin\Debug\net5.0\Startup.exe
+D:\HomeworkGB\HW-05\HW-05\Startup\bin\Debug\net5.0\Startup.deps.json
+D:\HomeworkGB\HW-05\HW-05\Startup\bin\Debug\net5.0\Startup.runtimeconfig.json
+D:\HomeworkGB\HW-05\HW-05\Startup\bin\Debug\net5.0\Startup.runtimeconfig.dev.json
+D:\HomeworkGB\HW-05\HW-05\Startup\bin\Debug\net5.0\Startup.dll
+D:\HomeworkGB\HW-05\HW-05\Startup\bin\Debug\net5.0\ref\Startup.dll
+D:\HomeworkGB\HW-05\HW-05\Startup\bin\Debug\net5.0\Startup.pdb
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.csprojAssemblyReference.cache
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.AssemblyInfoInputs.cache
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.AssemblyInfo.cs
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.dll
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\ref\Startup.dll
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.pdb
+D:\HomeworkGB\HW-05\HW-05\Startup\obj\Debug\net5.0\Startup.genruntimeconfig.cache

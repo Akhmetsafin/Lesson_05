@@ -1,0 +1,16 @@
+D:\HomeworkGB\HW-05\HW-05\BinNum\bin\Debug\net5.0\BinNum.exe
+D:\HomeworkGB\HW-05\HW-05\BinNum\bin\Debug\net5.0\BinNum.deps.json
+D:\HomeworkGB\HW-05\HW-05\BinNum\bin\Debug\net5.0\BinNum.runtimeconfig.json
+D:\HomeworkGB\HW-05\HW-05\BinNum\bin\Debug\net5.0\BinNum.runtimeconfig.dev.json
+D:\HomeworkGB\HW-05\HW-05\BinNum\bin\Debug\net5.0\BinNum.dll
+D:\HomeworkGB\HW-05\HW-05\BinNum\bin\Debug\net5.0\ref\BinNum.dll
+D:\HomeworkGB\HW-05\HW-05\BinNum\bin\Debug\net5.0\BinNum.pdb
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.csprojAssemblyReference.cache
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.AssemblyInfoInputs.cache
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.AssemblyInfo.cs
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.dll
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\ref\BinNum.dll
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.pdb
+D:\HomeworkGB\HW-05\HW-05\BinNum\obj\Debug\net5.0\BinNum.genruntimeconfig.cache

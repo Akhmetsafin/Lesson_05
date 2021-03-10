@@ -1,0 +1,15 @@
+D:\HomeworkGB\HW-05\HW-05\HW-05\bin\Debug\net5.0\HW-05_1_StringWRITE.exe
+D:\HomeworkGB\HW-05\HW-05\HW-05\bin\Debug\net5.0\HW-05_1_StringWRITE.deps.json
+D:\HomeworkGB\HW-05\HW-05\HW-05\bin\Debug\net5.0\HW-05_1_StringWRITE.runtimeconfig.json
+D:\HomeworkGB\HW-05\HW-05\HW-05\bin\Debug\net5.0\HW-05_1_StringWRITE.runtimeconfig.dev.json
+D:\HomeworkGB\HW-05\HW-05\HW-05\bin\Debug\net5.0\HW-05_1_StringWRITE.dll
+D:\HomeworkGB\HW-05\HW-05\HW-05\bin\Debug\net5.0\ref\HW-05_1_StringWRITE.dll
+D:\HomeworkGB\HW-05\HW-05\HW-05\bin\Debug\net5.0\HW-05_1_StringWRITE.pdb
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\HW-05_1_StringWRITE.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\HW-05_1_StringWRITE.AssemblyInfoInputs.cache
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\HW-05_1_StringWRITE.AssemblyInfo.cs
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\HW-05_1_StringWRITE.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\HW-05_1_StringWRITE.dll
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\ref\HW-05_1_StringWRITE.dll
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\HW-05_1_StringWRITE.pdb
+D:\HomeworkGB\HW-05\HW-05\HW-05\obj\Debug\net5.0\HW-05_1_StringWRITE.genruntimeconfig.cache
