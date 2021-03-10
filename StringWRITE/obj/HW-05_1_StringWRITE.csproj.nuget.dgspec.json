@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HomeworkGB\\HW-05\\HW-05\\HW-05\\HW-05_1_StringWRITE.csproj": {}
+    "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\StringWRITE\\HW-05_1_StringWRITE.csproj": {}
   },
   "projects": {
-    "D:\\HomeworkGB\\HW-05\\HW-05\\HW-05\\HW-05_1_StringWRITE.csproj": {
+    "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\StringWRITE\\HW-05_1_StringWRITE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HomeworkGB\\HW-05\\HW-05\\HW-05\\HW-05_1_StringWRITE.csproj",
+        "projectUniqueName": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\StringWRITE\\HW-05_1_StringWRITE.csproj",
         "projectName": "HW-05_1_StringWRITE",
-        "projectPath": "D:\\HomeworkGB\\HW-05\\HW-05\\HW-05\\HW-05_1_StringWRITE.csproj",
+        "projectPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\StringWRITE\\HW-05_1_StringWRITE.csproj",
         "packagesPath": "C:\\Users\\ArturiK\\.nuget\\packages\\",
-        "outputPath": "D:\\HomeworkGB\\HW-05\\HW-05\\HW-05\\obj\\",
+        "outputPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\StringWRITE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

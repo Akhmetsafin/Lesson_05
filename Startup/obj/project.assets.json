@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HomeworkGB\\HW-05\\HW-05\\Startup\\Startup.csproj",
+      "projectUniqueName": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\Startup\\Startup.csproj",
       "projectName": "Startup",
-      "projectPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Startup\\Startup.csproj",
+      "projectPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\Startup\\Startup.csproj",
       "packagesPath": "C:\\Users\\ArturiK\\.nuget\\packages\\",
-      "outputPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Startup\\obj\\",
+      "outputPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\Startup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

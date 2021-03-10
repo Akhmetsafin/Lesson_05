@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HomeworkGB\\HW-05\\HW-05\\BinNum\\BinNum.csproj": {}
+    "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\BinNum\\BinNum.csproj": {}
   },
   "projects": {
-    "D:\\HomeworkGB\\HW-05\\HW-05\\BinNum\\BinNum.csproj": {
+    "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\BinNum\\BinNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HomeworkGB\\HW-05\\HW-05\\BinNum\\BinNum.csproj",
+        "projectUniqueName": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\BinNum\\BinNum.csproj",
         "projectName": "BinNum",
-        "projectPath": "D:\\HomeworkGB\\HW-05\\HW-05\\BinNum\\BinNum.csproj",
+        "projectPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\BinNum\\BinNum.csproj",
         "packagesPath": "C:\\Users\\ArturiK\\.nuget\\packages\\",
-        "outputPath": "D:\\HomeworkGB\\HW-05\\HW-05\\BinNum\\obj\\",
+        "outputPath": "D:\\HomeworkGB\\HW-05\\HW-05\\Lesson_05\\BinNum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
